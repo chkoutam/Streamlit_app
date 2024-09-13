@@ -9,7 +9,7 @@ main_tab1, main_tab2, main_tab3, main_tab4 = st.tabs([
     "Présentation de l'écosystème", 
     "La SciPy Stack", 
     "Librairies de visualisation", 
-    "Fichiers volumineux"
+    "Fichiers "
 ])
 
 # ==============================
